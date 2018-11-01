@@ -1,0 +1,68 @@
+body
+{
+    margin: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #DCD8CF;
+}
+
+.head
+{
+    background: #000000;
+    border: solid 4px #DCD8CF;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    font-family: "Calibri";
+    font-size: 20pt;
+    text-align: center;
+    color: #DCD8CF;
+
+}
+.containes
+{
+    background: #DCD8CF;
+    padding: 15px;
+    font-family: "Calibri";
+    font-size: 14pt;
+    color: #000000;
+}
+
+summary
+{    
+    padding: 8px;
+    margin-bottom: 5px;
+    background-color: #000000;
+    border: solid 3px #DCD8CF;
+    color: #36A3C4;
+}
+
+blockquote
+{
+    text-align: right;
+    font-style: oblique;
+}
+
+a {
+    color: #36A3C4; /* Цвет ccылки в хэде */ 
+    text-decoration: none;
+}
+
+b
+
+{
+    color: #36A3C4; /* Цвет ссылке в формах */ 
+    text-decoration: none;
+}
+
+c
+
+{
+    color: #36A3C4; /* Цвет ссылке в теле */ 
+    text-decoration: none;
+}
+
+img {
+    width: 600px;
+    height: 600px;
+}
